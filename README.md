@@ -8,10 +8,10 @@ I'm vaibhav! I'm a **Data Science Student**, looking forward to solve **real-wor
 <img align="right" width="400" height="280" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif"></img>
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-Himanshu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-negi-232566198/)
-[![HackerRank](https://img.shields.io/badge/-Vicky_2000-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](http://www.hackerrank.com/Vicky_2000)
-[![Instagram](https://img.shields.io/badge/-hmmmanshu-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/hmmmanshu/)
-[![Gmail](https://img.shields.io/badge/-hnegi12345-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hnegi12345@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Himanshu-blue?style=flat&logo=Linkedin&logoColor=white)](00000000000000)
+[![HackerRank](https://img.shields.io/badge/-Vicky_2000-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](000000000000000000
+[![Instagram](https://img.shields.io/badge/-hmmmanshu-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](0000000000000)
+[![Gmail](https://img.shields.io/badge/-hnegi12345-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:00000000000)
 ![](https://komarev.com/ghpvc/?username=codebuildervaibhav&style=flat)
 
 
